@@ -1,2 +1,3 @@
 Line 1 on Branch
-Line 2 on Branch
+Line 2 on Branchgit 
+Line 3 on Branch after pushing it to github
